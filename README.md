@@ -4,3 +4,4 @@ it allows the users to sort their tasks based on priority levels, due dates and 
 This application also uses file management, which increases effiency by letting users acces their tasks between usages and devices. 
 There are several classes being used ot do this, including an interface, such as Tasks, TaskManagement, a LinkedList class, Node class, an Enumeration class called PriorityLevels and a Driver(Main) class.
 Through the usage of the selected data structures and method implementations this application will act as a regular To Do List with several functionalities.
+Link to all classes and interfaces: https://github.com/sofiamartinezzelaya/ToDoListApplication.git
